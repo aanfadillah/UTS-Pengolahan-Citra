@@ -28,7 +28,7 @@
 
 ---
 
-## Sistem Pengolahan Citra Gambar Gambar dengan OpenCV Menggunakan Streamlit
+## Sistem Pengolahan Citra Gambar dengan OpenCV Menggunakan Streamlit
 
 ### Deskripsi
 Aplikasi ini memungkinkan pengguna untuk melakukan beberapa manipulasi sederhana pada gambar yang diunggah, seperti konversi ke ruang warna HSV, menampilkan histogram, menampilkan kontur, serta menyesuaikan kecerahan dan kontras.
